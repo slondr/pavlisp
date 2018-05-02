@@ -1,7 +1,7 @@
 # Pavlisp
 A small-scale lisp interpreter.
 
-For details on copying, see `COPYING`.
+For details on copying, see `LICENSE`.
 
 For details on compiling, see `Makefile`.
 
