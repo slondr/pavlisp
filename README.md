@@ -2,6 +2,8 @@
 A small-scale lisp interpreter.
 Written by Andrew Soutar and Eric S. Londres, based on previous work by Jonathon Pavlik.
 
+NOTE: This project has been migrated to https://gitlab.com/slondr/pavlisp.
+
 ## Copying
 Essentially, this software is fully released into the public domain wherever applicable. For details on copying, see `LICENSE`.
 
